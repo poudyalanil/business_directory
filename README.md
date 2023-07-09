@@ -16,7 +16,7 @@ The data in this repository can be used for various purposes, including but not 
 - Business directory creation
 - Contact information verification
 - Data mining and machine learning projects
-- And more...
+
 
 Please refer to the specific sector folders for detailed information on the data available and how it can be utilized.
 
